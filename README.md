@@ -15,3 +15,6 @@ This project analyzes 100,000+ transaction records from a Brazilian e-commerce d
 
 ## 🖼️ Dashboard Preview
 <img width="960" height="491" alt="Screenshot 2026-09-23 035706" src="https://github.com/user-attachments/assets/f74bba46-f34e-466a-a16e-fb25b64eedae" />
+
+## Original Dataset Link
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
